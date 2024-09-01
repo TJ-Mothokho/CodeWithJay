@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWithJay", "CodeWithJay\CodeWithJay.csproj", "{AB0A0401-5075-4B64-9E6C-D7E7154B1E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{B76D2573-E61A-483A-AE90-D2807B285BB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{65B8AA6C-25C0-45B8-BD86-A1FF9211D335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0A0401-5075-4B64-9E6C-D7E7154B1E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0A0401-5075-4B64-9E6C-D7E7154B1E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0A0401-5075-4B64-9E6C-D7E7154B1E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0A0401-5075-4B64-9E6C-D7E7154B1E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76D2573-E61A-483A-AE90-D2807B285BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76D2573-E61A-483A-AE90-D2807B285BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76D2573-E61A-483A-AE90-D2807B285BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76D2573-E61A-483A-AE90-D2807B285BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF775CA-FFF1-4B63-B7BD-5B58A2FACD6E}
+	EndGlobalSection
+EndGlobal
