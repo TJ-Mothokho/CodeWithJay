@@ -5,7 +5,7 @@ namespace DataAccessLayer.Models.Domain
     public class BlogPost
     {
         [Key]
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
         public string Title { get; set; }
         public string ShortDescription { get; set; }
